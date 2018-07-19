@@ -1,0 +1,63 @@
+[33mcommit 8e9b44511d07c49cf1a2f8cdde3084bdfd7d4f2f[m[33m ([m[1;36mHEAD -> [m[1;32mnewbranch[m[33m, [m[1;31morigin/newbranch[m[33m)[m
+Author: ashish.kumar1 <ashish.kumar1@go-mmt.com>
+Date:   Thu Jul 19 12:57:50 2018 +0530
+
+    new branch added
+
+[33mcommit 9f9be04a345c88f2a3c1fa3174d9c407c8a232f3[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: ashish.kumar1 <ashish.kumar1@go-mmt.com>
+Date:   Wed Jul 18 11:25:28 2018 +0530
+
+    jenkins stuff added
+
+[33mcommit e9a6a48f3df82c72d1ebdb7bbd05670fd2da3046[m
+Author: Ashish Upadhyay <35951905+ashish-kumar1@users.noreply.github.com>
+Date:   Wed Jul 18 11:12:33 2018 +0530
+
+    first change to the file
+
+[33mcommit 3d64f36a991cb52a7e76a1d2f610fdb026aae2f6[m
+Merge: 63b5b45 5e02ac2
+Author: Ashish Upadhyay <35951905+ashish-kumar1@users.noreply.github.com>
+Date:   Wed Jul 18 11:07:52 2018 +0530
+
+    Merge pull request #2 from ashish-kumar1/ashish-kumar1-patch-2
+    
+    Set up for CI Jenkins
+
+[33mcommit 5e02ac255e5d2b90ed89bbda8ece9b2563c49fc5[m[33m ([m[1;31morigin/ashish-kumar1-patch-2[m[33m)[m
+Author: Ashish Upadhyay <35951905+ashish-kumar1@users.noreply.github.com>
+Date:   Wed Jul 18 11:07:03 2018 +0530
+
+    Set up for CI Jenkins
+    
+    new deployment
+
+[33mcommit 63b5b45bb04b451985bb456eb7f80e31dffdd5fa[m
+Merge: 8813b0a b9fec69
+Author: ashish-kumar1 <35951905+ashish-kumar1@users.noreply.github.com>
+Date:   Wed Feb 14 15:19:29 2018 +0530
+
+    Merge pull request #1 from ashish-kumar1/ashish-kumar1-patch-1
+    
+    Create README.md
+
+[33mcommit b9fec69412702be5ba5b976951ff18871d8b4c35[m[33m ([m[1;31morigin/tag-1[m[33m)[m
+Author: ashish-kumar1 <35951905+ashish-kumar1@users.noreply.github.com>
+Date:   Wed Feb 14 15:13:07 2018 +0530
+
+    Create README.md
+    
+    Info directory
+
+[33mcommit 8813b0af9a17252e41b4ce2f605beecd1f089d09[m
+Author: ashish.kumar1 <ashish.kumar1@go-mmt.com>
+Date:   Tue Feb 13 18:53:10 2018 +0530
+
+    my first commit
+
+[33mcommit fa731ef2a8fde74cc931941fff469917be059df7[m
+Author: ashish.kumar1 <ashish.kumar1@go-mmt.com>
+Date:   Tue Feb 13 18:51:24 2018 +0530
+
+    my first commit
